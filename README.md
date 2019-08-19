@@ -1,2 +1,2 @@
 # fiducialControl
-Controller code to read a process fiducials.
+Controller code to read and process fiducials.
